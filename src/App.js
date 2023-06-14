@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Komponent from './Komponent';
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
     <div>
-      <Komponent />
+      
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
